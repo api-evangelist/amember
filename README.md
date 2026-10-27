@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aMember is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://amember.com/
+aMember provides a self‑hosted membership and subscription software solution called aMember Pro. It enables website owners to sell memberships, subscriptions, digital products, and services directly from their own servers, supporting over 237 payment systems, multiple languages, and extensive integration options. The platform includes features such as affiliate programs, helpdesk, newsletters, licensing, and detailed reporting, catering to businesses of all sizes.
+
+**Areas:** Membership Software · Subscription Management · Self‑Hosted · Payment Integration · Affiliate Program · Team Accounts
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://amember.com/)
+- [Documentation](https://www.amember.com/docs/)
+- [Getting started](https://docs.amember.com//Product_Billing_Setup_Fee_Recurring)
+- [Pricing](https://www.amember.com/order/)
+- [Sign up](https://www.amember.com/amember/signup/demo)
+- [Support](https://www.amember.com/contact/)
+- [Changelog](https://www.amember.com/changelog/)
+- [Blog](https://www.amember.com/news/)
+- [Terms of service](https://www.amember.com/terms/)
+- [Privacy policy](https://www.amember.com/privacy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/amember/](https://apis.io/providers/amember/).
